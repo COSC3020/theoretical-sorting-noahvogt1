@@ -22,7 +22,9 @@ To verify this crazy claim, I would make my own random arbitrary set of arrays o
 sizes. For example, a list of size 1 and another of size 10 and another of size 100 up to
 1,000,000. This would provide me with a relatively good sample space to check whether this
 fantastic new sorting algorithm is correct. I could then - ceteris paribus - run the algorithm
-over all of the arrays and then check by graphin the runtimes to see if it fits the $O(n)$ evaluation and has linear growth.
+over all of the arrays logging the runtime of each. I could then graph these runtimes and observe
+the rate at which the runtime grows. The graph of runtimes must be linear to fit the $O(n)$
+statement made about the algorithm.
 
 To disprove the possibility of this, we can use the fact that we can only compare two elements
 at any given time. By comparing two elements to each other at a time, we can develop a tree of
