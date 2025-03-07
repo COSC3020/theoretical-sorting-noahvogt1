@@ -1,4 +1,7 @@
 # Theoretical Sorting
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
+I did not use any outside resources other than what was on the slides.
 
 A Computer Science researcher claims to have come up with a sorting algorithm
 that can sort arbitrary elements in $O(n)$ time based on comparisons of two
